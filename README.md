@@ -1,0 +1,1 @@
+# opencart-vqmod-journal2-product-hide-zero-prices
