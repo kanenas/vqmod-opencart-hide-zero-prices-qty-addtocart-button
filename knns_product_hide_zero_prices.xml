@@ -5,7 +5,7 @@
 	xsi:schemaLocation="https://github.com/vqmod/vqmod https://raw.githubusercontent.com/vqmod/vqmod/master/vqmod.xsd">
 	>
 	<id><![CDATA[[VQMOD] Hide zero ( 0,00€ or 0.00€ ) prices on Product's page]]></id>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<vqmver>2.6.3</vqmver>
 	<author>kanenas.net (aka Nikolas Branis) - nbran@kanenas.net</author>
 	<file path="catalog/view/theme/*/template/product/" name="product.tpl" error="log">
