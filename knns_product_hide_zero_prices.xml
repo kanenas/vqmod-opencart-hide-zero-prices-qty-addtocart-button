@@ -12,9 +12,9 @@
 		<operation error="skip">
 			<search position="replace"><![CDATA[<?php if ($price) { ?>]]></search>
 			<add><![CDATA[
-          <?php // kanenas: knns_journal2_product_hide_zero_prices.xml (start) << ?>
+          <?php // kanenas: knns_product_hide_zero_prices.xml (start) << ?>
           <?php if ($price && $price>0) { ?>
-          <?php // kanenas: knns_journal2_product_hide_zero_prices.xml (end) << ?>
+          <?php // kanenas: knns_product_hide_zero_prices.xml (end) << ?>
 			]]></add>
 		</operation>
 	</file>
